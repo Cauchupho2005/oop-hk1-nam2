@@ -1,0 +1,5 @@
+TraSua,001,Tra sữa matcha dâu,40000.00,50,Matcha dâu
+TraXanh,002,Trà xanh matcha,25000.00,50,Matcha
+NuocTangLuc,003,Red Bull,15000.00,200,80.00
+Bia,004,Heineken,20000.00,150,5.00
+NuocTangLuc,005,TEst,12000.00,20,5.20
